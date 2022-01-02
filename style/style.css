@@ -1,0 +1,23 @@
+.top{
+    text-align: center;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: green;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+img{
+    height: 150px;
+    width: 100px;
+}
+small{
+    color: yellowgreen;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.blog{
+    background-color: tomato;
+    padding: 50px 30px;
+    border-radius: 15px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin:20px;
+}
